@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module 'C:\\Users\\Adam\\Desktop\\browserify\\extracted\\public\\public\\app\\index.js' from 'C:\\Users\\Adam\\Desktop\\browserify\\extracted\\public'");
